@@ -1,0 +1,5 @@
+/home/gionn/Downloads
+/home/gionn/tmp
+/home/gionn/.*
+!/home/gionn/.ssh
+pgdata
