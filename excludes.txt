@@ -1,5 +1,15 @@
 /home/gionn/Downloads
 /home/gionn/tmp
+/home/gionn/go
 /home/gionn/.*
 !/home/gionn/.ssh
+/home/gionn/Pictures/Screenshots
 pgdata
+pg_data
+.debris
+*.rpyc
+*.py[cod]
+node_modules
+.jekyll-cache
+/target/
+/.venv/
